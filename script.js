@@ -15,4 +15,3 @@ document.addEventListener("DOMContentLoaded", function() {
     h1.innerHTML = ""; // Clear existing text
     typeText(); // Start animation
 });
-
